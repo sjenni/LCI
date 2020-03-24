@@ -1,0 +1,5 @@
+theme: minima
+title: Steering Self-Supervised Feature Learning Beyond Local Pixel Statistics
+author: Simon Jenni, Hailin Jin, Paolo Favaro
+email: simon.jenni@inf.unibe.ch, paolo.favaro@inf.unibe.ch
+description: This is the project page for our CVPR2020 oral paper titled "Steering Self-Supervised Feature Learning Beyond Local Pixel Statistics"
