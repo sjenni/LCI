@@ -1,4 +1,6 @@
-![Real or Fake?](assets/Fig1.png)
+<p align="center">
+    <img src="assets/Fig1.png" width="600">
+</p>
 *Examples of local patches from images that were (a) warped, (b) locally inpainted,  (c) rotated or (d) not transformed.  The bottom row shows the original images, the middle row shows the corresponding transformed images and the top row shows a detail of the transformed image.  By only observing a local patch (top row), is it possible in all of the above cases to tell if and how an image has been transformed or is it instead necessary  to  observe  the  whole  image  (middle  row), i.e., the global pixel statistics?*
 
 
