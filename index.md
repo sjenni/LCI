@@ -4,12 +4,6 @@
 </p>
 
 
-<p align="center">
-  <b style="font-size: 24px">Code:</b><br>
-  <a href="https://github.com/sjenni/LCI" style="font-size: 24px; text-decoration: none">[GitHub]</a>
-</p>
-
-
 
 <p align="center">
     <img src="assets/Fig1.png" width="600">
@@ -17,6 +11,11 @@
 
 ***Recognizing Image Transformations.*** *Examples of local patches from images that were (a) warped, (b) locally inpainted,  (c) rotated or (d) not transformed.  The bottom row shows the original images, the middle row shows the corresponding transformed images and the top row shows a detail of the transformed image.  By only observing a local patch (top row), is it possible in all of the above cases to tell if and how an image has been transformed or is it instead necessary  to  observe  the  whole  image  (middle  row), i.e., the global pixel statistics?*
 
+
+<p align="center">
+  <b style="font-size: 24px">Code:</b><br>
+  <a href="https://github.com/sjenni/LCI" style="font-size: 24px; text-decoration: none">[GitHub]</a>
+</p>
 
 
 # Abstract
