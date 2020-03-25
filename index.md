@@ -8,7 +8,8 @@
 <p align="center">
     <img src="assets/Fig1.png" width="600">
 </p>
-*Examples of local patches from images that were (a) warped, (b) locally inpainted,  (c) rotated or (d) not transformed.  The bottom row shows the original images, the middle row shows the corresponding transformed images and the top row shows a detail of the transformed image.  By only observing a local patch (top row), is it possible in all of the above cases to tell if and how an image has been transformed or is it instead necessary  to  observe  the  whole  image  (middle  row), i.e., the global pixel statistics?*
+
+***Recognizing Image Transformations.*** *Examples of local patches from images that were (a) warped, (b) locally inpainted,  (c) rotated or (d) not transformed.  The bottom row shows the original images, the middle row shows the corresponding transformed images and the top row shows a detail of the transformed image.  By only observing a local patch (top row), is it possible in all of the above cases to tell if and how an image has been transformed or is it instead necessary  to  observe  the  whole  image  (middle  row), i.e., the global pixel statistics?*
 
 
 
@@ -31,6 +32,6 @@ Indeed, we demonstrate experimentally that learning to discriminate transformati
 # Limited Context Inpainting (LCI)
 
 ![Model](assets/model_LCI.png)
-*Training of the Limited Context Inpainting (LCI) network. A random patch is extracted from a training image x and all but a thin border of pixels are replaced by random noise.  The inpainter network F fills the patch with realistic textures conditioned on the remaining border pixels. The resulting patch is replaced back into the original image, generating an image with natural local statistics, but unnatural global statistics.*
+***Training of the Limited Context Inpainting (LCI) network.*** *A random patch is extracted from a training image x and all but a thin border of pixels are replaced by random noise.  The inpainter network F fills the patch with realistic textures conditioned on the remaining border pixels. The resulting patch is replaced back into the original image, generating an image with natural local statistics, but unnatural global statistics.*
 
 
