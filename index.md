@@ -1,4 +1,10 @@
 <p align="center">
+  <b style="font-size: 20px">Paper:</b><br>
+  <a href="https://sjenni.github.io/LCI/" style="font-size: 20px; text-decoration: none">[Coming Soon]</a>
+</p>
+
+
+<p align="center">
     <img src="assets/Fig1.png" width="600">
 </p>
 *Examples of local patches from images that were (a) warped, (b) locally inpainted,  (c) rotated or (d) not transformed.  The bottom row shows the original images, the middle row shows the corresponding transformed images and the top row shows a detail of the transformed image.  By only observing a local patch (top row), is it possible in all of the above cases to tell if and how an image has been transformed or is it instead necessary  to  observe  the  whole  image  (middle  row), i.e., the global pixel statistics?*
@@ -14,12 +20,15 @@ This transformation inpaints an image patch conditioned only on a small rectangu
 We claim that the same principle can be used to justify the performance of transformations such as image rotations and warping.
 Indeed, we demonstrate experimentally that learning to discriminate transformations such as LCI, image warping and rotations, yields features with state of the art generalization capabilities on several datasets such as Pascal VOC, STL-10, CelebA, and ImageNet. Remarkably, our trained features achieve a performance on Places on par with features trained through supervised learning with ImageNet labels.
 
-# Model & Code
+<p align="center">
+  <b style="font-size: 28px">Code:</b><br>
+  <a href="https://github.com/sjenni/LCI" style="font-size: 28px; text-decoration: none">[GitHub]</a>
+</p>
+
+
+# Limited Context Inpainting (LCI)
 
 ![Model](assets/model_LCI.png)
 *Training of the Limited Context Inpainting (LCI) network. A random patch is extracted from a training image x and all but a thin border of pixels are replaced by random noise.  The inpainter network F fills the patch with realistic textures conditioned on the remaining border pixels. The resulting patch is replaced back into the original image, generating an image with natural local statistics, but unnatural global statistics.*
 
-<p align="center">
-  <b style="font-size: 20px">Code:</b><br>
-  <a href="https://github.com/sjenni/LCI" style="font-size: 20px; text-decoration: none">[GitHub]</a>
-</p>
+
