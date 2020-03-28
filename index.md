@@ -1,4 +1,13 @@
 <p align="center">
+  <a href="https://sjenni.github.io" style="font-size: 24px; text-decoration: none">Simon Jenni</a> 
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  
+  <a href="https://sites.google.com/view/hailinjin" style="font-size: 24px; text-decoration: none">Hailin Jin</a> 
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+  <a href="http://www.cvg.unibe.ch/people/favaro" style="font-size: 24px; text-decoration: none">Paolo Favaro</a>
+</p>
+
+
+<p align="center">
 <b style="font-size: 24px">Paper:</b> <a href="https://sjenni.github.io/LCI/" style="font-size: 24px; text-decoration: none">[Coming Soon]</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b style="font-size: 24px">Code:</b> <a href="https://github.com/sjenni/LCI" style="font-size: 24px; text-decoration: none">[GitHub]</a>
 </p>
   
