@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <b style="font-size: 20px">Paper:</b> <a href="https://sjenni.github.io/LCI/" style="font-size: 20px; text-decoration: none">[Coming Soon]</a></br>
+  <b style="font-size: 20px">Paper:</b> <a href="https://sjenni.github.io/LCI/" style="font-size: 20px; text-decoration: none">[Coming Soon]</a><br>
   <b style="font-size: 20px">Code:</b> <a href="https://github.com/sjenni/LCI" style="font-size: 20px; text-decoration: none">[GitHub]</a>
 </p>
   
