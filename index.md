@@ -1,12 +1,5 @@
 <p align="center">
-  <b style="font-size: 24px">Paper:</b><br>
-  <a href="https://sjenni.github.io/LCI/" style="font-size: 24px; text-decoration: none">[Coming Soon]</a>
-</p>
-  
-
-<p align="center">
-  <b style="font-size: 24px">Code:</b><br>
-  <a href="https://github.com/sjenni/LCI" style="font-size: 24px; text-decoration: none">[GitHub]</a>
+<b style="font-size: 24px">Paper:</b> <a href="https://sjenni.github.io/LCI/" style="font-size: 24px; text-decoration: none">[Coming Soon]</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b style="font-size: 24px">Code:</b> <a href="https://github.com/sjenni/LCI" style="font-size: 24px; text-decoration: none">[GitHub]</a>
 </p>
   
 
