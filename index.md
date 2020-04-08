@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <a href="https://sjenni.github.io/LCI/" style="font-size: 21px; text-decoration: none">[Paper]</a>
+  <a href="https://arxiv.org/abs/2004.02331" style="font-size: 21px; text-decoration: none">[Arxiv]</a>
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  
   <a href="https://github.com/sjenni/LCI" style="font-size: 21px; text-decoration: none">[GitHub]</a> 
 </p>
