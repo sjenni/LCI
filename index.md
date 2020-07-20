@@ -38,6 +38,15 @@ Indeed, we demonstrate experimentally that learning to discriminate transformati
 ___
 
 
+<!-- blank line -->
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/6jAHLGewuHY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+<!-- blank line -->
+
+___
+
+
 # Limited Context Inpainting (LCI)
 
 ![Model](assets/model_LCI.png)
