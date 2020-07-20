@@ -7,6 +7,15 @@
 </p>
 
 
+<!-- blank line -->
+<div align="center">
+  <figure class="video_container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/6jAHLGewuHY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </figure>
+</div>
+<!-- blank line -->
+
+
 <p align="center">
   <a href="https://arxiv.org/abs/2004.02331" style="font-size: 21px; text-decoration: none">[Arxiv]</a>
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  
@@ -45,11 +54,3 @@ ___
 
 ___
 
-
-<!-- blank line -->
-<div align="center">
-  <figure class="video_container">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/6jAHLGewuHY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </figure>
-</div>
-<!-- blank line -->
