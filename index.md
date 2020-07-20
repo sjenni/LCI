@@ -7,6 +7,13 @@
 </p>
 
 
+<p align="center">
+  <a href="https://arxiv.org/abs/2004.02331" style="font-size: 21px; text-decoration: none">[Arxiv]</a>
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  
+  <a href="https://github.com/sjenni/LCI" style="font-size: 21px; text-decoration: none">[GitHub]</a> 
+</p>
+
+
 <!-- blank line -->
 <div align="center">
   <figure class="video_container">
@@ -15,19 +22,6 @@
 </div>
 <!-- blank line -->
 
-
-<p align="center">
-  <a href="https://arxiv.org/abs/2004.02331" style="font-size: 21px; text-decoration: none">[Arxiv]</a>
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  
-  <a href="https://github.com/sjenni/LCI" style="font-size: 21px; text-decoration: none">[GitHub]</a> 
-</p>
-
-
-<p align="center">
-    <img src="assets/Fig1.png" width="600">
-</p>
-
-***Recognizing Image Transformations.*** *Examples of local patches from images that were (a) warped, (b) locally inpainted,  (c) rotated or (d) not transformed.  The bottom row shows the original images, the middle row shows the corresponding transformed images and the top row shows a detail of the transformed image.  By only observing a local patch (top row), is it possible in all of the above cases to tell if and how an image has been transformed or is it instead necessary  to  observe  the  whole  image  (middle  row), i.e., the global pixel statistics?*
 
 ___
 
@@ -42,6 +36,15 @@ This transformation inpaints an image patch conditioned only on a small rectangu
 We claim that the same principle can be used to justify the performance of transformations such as image rotations and warping.
 Indeed, we demonstrate experimentally that learning to discriminate transformations such as LCI, image warping and rotations, yields features with state of the art generalization capabilities on several datasets such as Pascal VOC, STL-10, CelebA, and ImageNet. Remarkably, our trained features achieve a performance on Places on par with features trained through supervised learning with ImageNet labels.
 
+
+___
+
+
+<p align="center">
+    <img src="assets/Fig1.png" width="600">
+</p>
+
+***Recognizing Image Transformations.*** *Examples of local patches from images that were (a) warped, (b) locally inpainted,  (c) rotated or (d) not transformed.  The bottom row shows the original images, the middle row shows the corresponding transformed images and the top row shows a detail of the transformed image.  By only observing a local patch (top row), is it possible in all of the above cases to tell if and how an image has been transformed or is it instead necessary  to  observe  the  whole  image  (middle  row), i.e., the global pixel statistics?*
 
 ___
 
